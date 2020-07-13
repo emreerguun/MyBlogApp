@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "4.4.1",
+    "jquery": "3.5.0",
+    "popper.js": "2.0.0-next.4",
+    "tether": "2.0.0-beta.5",
+    "font-awesome": "4.7.0",
+    "ckeditor": "4.12.1"
+  }
+}
